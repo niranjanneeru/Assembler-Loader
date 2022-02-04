@@ -8,9 +8,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "D:/Neeru/PROJECTS/C++/SIC-Academic/main.c" "D:/Neeru/PROJECTS/C++/SIC-Academic/cmake-build-debug/CMakeFiles/SIC_Academic.dir/main.c.obj"
-  "D:/Neeru/PROJECTS/C++/SIC-Academic/pass1.c" "D:/Neeru/PROJECTS/C++/SIC-Academic/cmake-build-debug/CMakeFiles/SIC_Academic.dir/pass1.c.obj"
-  "D:/Neeru/PROJECTS/C++/SIC-Academic/pass2.c" "D:/Neeru/PROJECTS/C++/SIC-Academic/cmake-build-debug/CMakeFiles/SIC_Academic.dir/pass2.c.obj"
+  "D:/Neeru/PROJECTS/Assemblers and Loaders/SIC - C/main.c" "D:/Neeru/PROJECTS/Assemblers and Loaders/SIC - C/cmake-build-debug/CMakeFiles/SIC_Academic.dir/main.c.obj"
+  "D:/Neeru/PROJECTS/Assemblers and Loaders/SIC - C/pass1.c" "D:/Neeru/PROJECTS/Assemblers and Loaders/SIC - C/cmake-build-debug/CMakeFiles/SIC_Academic.dir/pass1.c.obj"
+  "D:/Neeru/PROJECTS/Assemblers and Loaders/SIC - C/pass2.c" "D:/Neeru/PROJECTS/Assemblers and Loaders/SIC - C/cmake-build-debug/CMakeFiles/SIC_Academic.dir/pass2.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 

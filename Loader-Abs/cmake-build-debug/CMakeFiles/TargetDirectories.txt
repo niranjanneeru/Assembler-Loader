@@ -1,3 +1,3 @@
-D:/Neeru/PROJECTS/C++/Loader-Abs/cmake-build-debug/CMakeFiles/Loader_Abs.dir
-D:/Neeru/PROJECTS/C++/Loader-Abs/cmake-build-debug/CMakeFiles/edit_cache.dir
-D:/Neeru/PROJECTS/C++/Loader-Abs/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/Neeru/PROJECTS/Assemblers and Loaders/Loader-Abs/cmake-build-debug/CMakeFiles/Loader_Abs.dir
+D:/Neeru/PROJECTS/Assemblers and Loaders/Loader-Abs/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Neeru/PROJECTS/Assemblers and Loaders/Loader-Abs/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -53,10 +53,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\Neeru\PROJECTS\C++\SIC-Academic
+CMAKE_SOURCE_DIR = "D:\Neeru\PROJECTS\Assemblers and Loaders\SIC - C"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\Neeru\PROJECTS\C++\SIC-Academic\cmake-build-debug
+CMAKE_BINARY_DIR = "D:\Neeru\PROJECTS\Assemblers and Loaders\SIC - C\cmake-build-debug"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -80,14 +80,14 @@ clean: CMakeFiles/SIC_Academic.dir/clean
 CMakeFiles/SIC_Academic.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\SIC_Academic.dir\build.make CMakeFiles/SIC_Academic.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\SIC_Academic.dir\build.make CMakeFiles/SIC_Academic.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Neeru\PROJECTS\C++\SIC-Academic\cmake-build-debug\CMakeFiles --progress-num=1,2,3,4 "Built target SIC_Academic"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\Neeru\PROJECTS\Assemblers and Loaders\SIC - C\cmake-build-debug\CMakeFiles" --progress-num=1,2,3,4 "Built target SIC_Academic"
 .PHONY : CMakeFiles/SIC_Academic.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/SIC_Academic.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\Neeru\PROJECTS\C++\SIC-Academic\cmake-build-debug\CMakeFiles 4
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Neeru\PROJECTS\Assemblers and Loaders\SIC - C\cmake-build-debug\CMakeFiles" 4
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/SIC_Academic.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\Neeru\PROJECTS\C++\SIC-Academic\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Neeru\PROJECTS\Assemblers and Loaders\SIC - C\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/SIC_Academic.dir/rule
 
 # Convenience name for target.

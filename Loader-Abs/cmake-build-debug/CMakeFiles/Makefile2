@@ -53,10 +53,10 @@ RM = "C:\Program Files\JetBrains\CLion 2020.1.1\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = D:\Neeru\PROJECTS\C++\Loader-Abs
+CMAKE_SOURCE_DIR = "D:\Neeru\PROJECTS\Assemblers and Loaders\Loader-Abs"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = D:\Neeru\PROJECTS\C++\Loader-Abs\cmake-build-debug
+CMAKE_BINARY_DIR = "D:\Neeru\PROJECTS\Assemblers and Loaders\Loader-Abs\cmake-build-debug"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -80,14 +80,14 @@ clean: CMakeFiles/Loader_Abs.dir/clean
 CMakeFiles/Loader_Abs.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Loader_Abs.dir\build.make CMakeFiles/Loader_Abs.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Loader_Abs.dir\build.make CMakeFiles/Loader_Abs.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=D:\Neeru\PROJECTS\C++\Loader-Abs\cmake-build-debug\CMakeFiles --progress-num=1,2 "Built target Loader_Abs"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="D:\Neeru\PROJECTS\Assemblers and Loaders\Loader-Abs\cmake-build-debug\CMakeFiles" --progress-num=1,2 "Built target Loader_Abs"
 .PHONY : CMakeFiles/Loader_Abs.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/Loader_Abs.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\Neeru\PROJECTS\C++\Loader-Abs\cmake-build-debug\CMakeFiles 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Neeru\PROJECTS\Assemblers and Loaders\Loader-Abs\cmake-build-debug\CMakeFiles" 2
 	$(MAKE) $(MAKESILENT) -f CMakeFiles\Makefile2 CMakeFiles/Loader_Abs.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start D:\Neeru\PROJECTS\C++\Loader-Abs\cmake-build-debug\CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "D:\Neeru\PROJECTS\Assemblers and Loaders\Loader-Abs\cmake-build-debug\CMakeFiles" 0
 .PHONY : CMakeFiles/Loader_Abs.dir/rule
 
 # Convenience name for target.

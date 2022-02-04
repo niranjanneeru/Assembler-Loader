@@ -1,4 +1,4 @@
-# Install script for directory: D:/Neeru/PROJECTS/C++/Loader-Abs
+# Install script for directory: D:/Neeru/PROJECTS/Assemblers and Loaders/Loader-Abs
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "D:/Neeru/PROJECTS/C++/Loader-Abs/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "D:/Neeru/PROJECTS/Assemblers and Loaders/Loader-Abs/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
